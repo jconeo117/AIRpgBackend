@@ -1,0 +1,79 @@
+{
+    "id": 0,
+    "nombre": "Cendria",
+    "tipo": "Region Central - Mediadora",
+    "posicion": "Centro",
+    "descripcion": "El corazón político y económico del mundo. Una región neutral que sirve como punto de encuentro para el comercio global. Está protegida por una cordillera artificial de montañas y un denso bosque casi impenetrable, con caminos principales como única forma de acceso.",
+    "geografia": {
+        "tipo": "Llanuras centrales rodeadas de montañas y bosque protector",
+        "clima": "Templado con variaciones estacionales suaves",
+        "caracteristicas_principales": [
+            "Cordillera artificial defensiva",
+            "Bosque denso e impenetrable",
+            "Caminos comerciales principales bien mantenidos",
+            "Ciudad capital en el centro de llanuras"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": "Multi-racial, sin dominancia de una sola raza",
+        "razas_presentes": [
+            "Humanos",
+            "Elfos",
+            "Enanos",
+            "Gnomos",
+            "Semi-Humanos",
+            "Draconidos menores",
+            "Arpías"
+        ],
+        "porcentaje_urbano": 95,
+        "poblacion_aproximada": "2 millones"
+    },
+    "gobierno": {
+        "tipo": "Consejo de Neutralidad",
+        "descripcion": "Gobierno multicultural basado en representación de razas y naciones. Supuestamente neutral en todos los conflictos internacionales.",
+        "liderazgo": "Senado de 50 representantes rotativo (2 años por mandato)",
+        "ideologia_publica": "Neutralidad absoluta, mediación, comercio justo",
+        "secretos": "Corrupción sistémica interna desconocida por las demás regiones. Facciones dentro del gobierno trabajan para manipular el comercio global y favorecer intereses personales."
+    },
+    "economia": {
+        "especialidad": "Comercio, intermediación, recursos concentrados de todas las regiones",
+        "recursos_principales": "Acceso a TODOS los recursos mediante rutas comerciales",
+        "moneda": "Aureo Cendrio (aceptado en todo el mundo)",
+        "dependencia_comercial": "Extrema - todas las otras regiones dependen de Cendria para comercio interregional"
+    },
+    "cultura": {
+        "lenguaje_principal": "Cendrico Común",
+        "idiomas_secundarios": [
+            "Todos los idiomas regionales"
+        ],
+        "valores_culturales": [
+            "Neutralidad",
+            "Comercio",
+            "Tolerancia aparente",
+            "Diplomacia"
+        ],
+        "festivales": [
+            "Festival del Comercio Global (anual)",
+            "Día de la Neutralidad"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Aliado formal de NINGUNA región",
+        "enemigos": "NINGUNO oficialmente",
+        "relaciones": "Actitud neutral equidistante con todas las regiones",
+        "conflictos_potenciales": "Si se descubre la corrupción interna, podría colapsar toda la estructura política mundial"
+    },
+    "puntos_de_interes": [
+        "Gran Mercado de Cendria - centro comercial más grande del mundo",
+        "Torre de los Consejeros - sede del gobierno",
+        "Biblioteca Neutral - repositorio de conocimiento histórico y político",
+        "Puerto Cendrio - punto central de acceso a rutas comerciales"
+    ],
+    "amenazas_internas": [
+        "Corrupción del gobierno",
+        "Facciones rivales dentro del Senado",
+        "Infiltración de agentes de otras regiones",
+        "Potencial colapso económico si se revela manipulación"
+    ],
+    "conexiones_con_otras_regiones": "Directa con todas las 8 regiones mediante rutas comerciales"
+}

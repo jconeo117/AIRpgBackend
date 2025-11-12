@@ -1,0 +1,101 @@
+{
+    "Id": "raza_4",
+    "Nombre": "Goblins",
+    "Tipo": "Monstruo",
+    "Categoria": "RazaMonstruosa",
+    "Biologia": {
+        "AlturaPromedio": "0.90 - 1.20 metros",
+        "PesoPromedio": "35 - 50 kg",
+        "ExpectativaVida": "60 - 200 años",
+        "RasgosDistintivos": [
+            "Pequeños",
+            "Ágiles",
+            "Piel verde/amarillenta",
+            "Astutos"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Comunes",
+                "Descripcion": "Goblins estándar, mayoría de la población",
+                "Ubicacion": "Todas las regiones"
+            },
+            {
+                "Nombre": "Chamanes",
+                "Descripcion": "Goblins con aptitud mágica elemental",
+                "Ubicacion": "Tribus específicas"
+            },
+            {
+                "Nombre": "Hobgoblins",
+                "Descripcion": "Goblins más grandes y disciplinados, líderes militares",
+                "Ubicacion": "Clanes organizados"
+            }
+        ],
+        "NotasEspeciales": "Raza pequeña y nómada"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 8,
+    "EdadDespertarMax": 15,
+    "EspecialidadMagica": "Agilidad y robo; algunos chamanes magia elemental",
+    "HabilidadRacial": {
+        "Categoria": "Astucia Predatoria",
+        "Descripcion": "Sigilo, robo, engaño",
+        "Ejemplos": [
+            "Sigilo de sombras",
+            "Agilidad extrema",
+            "Detección de trampas"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {},
+        "RegionesSecundarias": {
+            "Todas las regiones": "8-12%"
+        },
+        "PorcentajeGlobal": "9%",
+        "NotasEspeciales": "Nómadas, principalmente en suburbios y periferia de ciudades"
+    },
+    "ValoresCulturales": [
+        "Supervivencia",
+        "Acumulación de tesoros",
+        "Lealtad tribal débil",
+        "Placer en caos"
+    ],
+    "EspecialidadesEconomicas": [
+        "Robo",
+        "Espionaje",
+        "Comercio negro"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Goblin Común",
+            "RangoEdad": "0-40 años",
+            "Caracteristicas": "Sin nombre, impulsivo"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Goblin Mayor",
+            "PoderAproximado": "Tier F-D",
+            "TierMinimo": "F",
+            "TierMaximo": "D",
+            "Caracteristicas": "Puede haber sido nombrado"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Goblin Capitán",
+            "PoderAproximado": "Tier D-B",
+            "TierMinimo": "D",
+            "TierMaximo": "B",
+            "Caracteristicas": "Líder de banda, generalmente nombrado"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Extremadamente raro"
+        }
+    ]
+}

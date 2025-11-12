@@ -1,0 +1,6 @@
+@AiRpgBackend_HostAddress = http://localhost:5160
+
+GET {{AiRpgBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

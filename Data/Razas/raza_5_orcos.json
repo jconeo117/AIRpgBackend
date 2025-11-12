@@ -1,0 +1,111 @@
+{
+    "Id": "raza_5",
+    "Nombre": "Orcos",
+    "Tipo": "Monstruo",
+    "Categoria": "RazaMonstruosa",
+    "Biologia": {
+        "AlturaPromedio": "1.60 - 1.85 metros",
+        "PesoPromedio": "100 - 130 kg",
+        "ExpectativaVida": "50 - 80 años",
+        "RasgosDistintivos": [
+            "Robusto musculoso",
+            "Piel grisácea/verde",
+            "Colmillos visibles",
+            "Ojos rojizos"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Comunes",
+                "Descripcion": "Orcos estándar, guerreros por naturaleza",
+                "Ubicacion": "Todas las regiones orcas"
+            },
+            {
+                "Nombre": "Uruk-Hai",
+                "Descripcion": "Orcos mejorados, más grandes y fuertes",
+                "Ubicacion": "Ironmarch principalmente"
+            },
+            {
+                "Nombre": "Chamanes",
+                "Descripcion": "Orcos con conexión mágica elemental",
+                "Ubicacion": "Clanes de montaña"
+            }
+        ],
+        "NotasEspeciales": "Raza media, orientada al combate"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 10,
+    "EdadDespertarMax": 18,
+    "EspecialidadMagica": "Combate y resistencia; chamanes magia elemental",
+    "HabilidadRacial": {
+        "Categoria": "Furia de Guerra",
+        "Descripcion": "Cuanto más herido, más fuerte. Poder bruto en combate",
+        "Ejemplos": [
+            "Potenciación de daño",
+            "Regeneración en combate",
+            "Resistencia al dolor"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Ironmarch": "60%"
+        },
+        "RegionesSecundarias": {
+            "Montañas": "20-30%"
+        },
+        "PorcentajeGlobal": "14%"
+    },
+    "ValoresCulturales": [
+        "Fuerza bruta como ley",
+        "Honor en combate",
+        "Lealtad de clan",
+        "Desprecio por elfos"
+    ],
+    "EspecialidadesEconomicas": [
+        "Minería de hierro",
+        "Herrería rudimentaria",
+        "Caza",
+        "Mercenariado"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Orco Joven",
+            "RangoEdad": "0-30 años",
+            "Caracteristicas": "Sin nombre, aprendiendo a guerrear"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Alto Orco",
+            "PoderAproximado": "Tier F-D",
+            "TierMinimo": "F",
+            "TierMaximo": "D",
+            "Caracteristicas": "Guerrero experimentado, puede haber sido nombrado"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Lord Orco",
+            "PoderAproximado": "Tier D-B",
+            "TierMinimo": "D",
+            "TierMaximo": "B",
+            "Caracteristicas": "Líder de clan, siempre nombrado"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Orco Desastre",
+            "PoderAproximado": "Tier B-S",
+            "TierMinimo": "B",
+            "TierMaximo": "S",
+            "Caracteristicas": "Leyenda viviente entre orcos"
+        },
+        {
+            "Nivel": 5,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Poder trascendental"
+        }
+    ]
+}

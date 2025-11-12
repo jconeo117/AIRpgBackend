@@ -1,0 +1,87 @@
+{
+    "id": 5,
+    "nombre": "Valorion",
+    "tipo": "Región Desértica y Política",
+    "posicion": "Suroeste",
+    "descripcion": "Vasto desierto con oasis comerciales estratégicos. Centro de juego político sofisticado, diplomacia y maquinaciones. Hogar de caravanas, mercaderes y políticos",
+    "geografia": {
+        "tipo": "Desierto extenso, oasis dispersos, depósitos de Gas de Ether",
+        "clima": "Árido extremo, diferencias de temperatura drásticas día/noche",
+        "caracteristicas_principales": [
+            "Dunas de arena mágica que cambian",
+            "Oasis naturales con agua dulce",
+            "Depósitos subterráneos de Gas de Ether",
+            "Ruinas de ciudades antiguas",
+            "Templos de poder político"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Humanos",
+            "Vampiros",
+            "Demonios menores"
+        ],
+        "razas_presentes": [
+            "Humanos nómadas",
+            "Vampiros",
+            "Demonios infiltrados",
+            "Semi-Humanos mercaderes"
+        ],
+        "porcentaje_urbano": 40,
+        "poblacion_aproximada": "500,000"
+    },
+    "gobierno": {
+        "tipo": "Sultanato",
+        "descripcion": "Gobierno monárquico con influencia de una corte política compleja. El Sultán es el poder nominal, pero facciones de nobles, mercaderes y vampiros tienen poder real.",
+        "liderazgo": "Sultán Supremo (poder limitado por facciones internas)",
+        "ideologia_publica": "Neutralidad fluctuante, diplomacia, comercio, supervivencia",
+        "secretos": "Múltiples facciones trabajan en contra del Sultán; presencia demoniaca confirmada pero negada"
+    },
+    "economia": {
+        "especialidad": "Comercio de caravanas, diplomacia comercial, banca, especulación",
+        "recursos_principales": "Gas de Ether (recurso raro), acceso a rutas comerciales, información política",
+        "moneda": "Dinar Valoriano",
+        "dependencia_comercial": "Alta - intermediario crítico en rutas comerciales entre regiones"
+    },
+    "cultura": {
+        "lenguaje_principal": "Valoriano",
+        "idiomas_secundarios": [
+            "Cendrico Común",
+            "Demoníaco (en circulos altos)"
+        ],
+        "valores_culturales": [
+            "Diplomacia",
+            "Riqueza",
+            "Poder político",
+            "Supervivencia"
+        ],
+        "festivales": [
+            "Festival del Oasis",
+            "Noche del Mercader"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Cambiantes - alianza con quien sea más beneficioso en el momento",
+        "enemigos": "Ninguno declarado, pero relaciones tensas con Ironmarch",
+        "relaciones": "Transaccionales con todas las regiones",
+        "conflictos_potenciales": "Colapso de poder si facciones entran en guerra abierta; revelación de influencia demoniaca"
+    },
+    "puntos_de_interes": [
+        "Gran Oasis de Valorion - centro de comercio de caravanas",
+        "Palacio del Sultán - centro del poder político",
+        "Biblioteca de Diplomaticos - repositorio de acuerdos políticos",
+        "Mina de Gas de Ether - fuente del recurso más raro del mundo"
+    ],
+    "amenazas_internas": [
+        "Intriga política constante",
+        "Guerra de facciones silenciosa",
+        "Infiltración demoniaca",
+        "Competencia entre mercaderes y nobles",
+        "Presencia vampírica cada vez mayor"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio crítico)",
+        "Thalarim (por mar)",
+        "Silvamor (caravanas)"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "Id": "raza_6",
+    "Nombre": "Ogros",
+    "Tipo": "Monstruo",
+    "Categoria": "RazaMonstruosa",
+    "Biologia": {
+        "AlturaPromedio": "2.80 - 3.20 metros",
+        "PesoPromedio": "400 - 500 kg",
+        "ExpectativaVida": "80 - 120 años",
+        "RasgosDistintivos": [
+            "Enormes",
+            "Piel verde oscuro/violeta",
+            "Inteligencia limitada",
+            "Olor insoportable"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Comunes",
+                "Descripcion": "Ogros estándar, fuerza bruta con inteligencia limitada",
+                "Ubicacion": "Montañas y Karthuum"
+            },
+            {
+                "Nombre": "Chamán",
+                "Descripcion": "Ogros más inteligentes con capacidad mágica",
+                "Ubicacion": "Raros, dispersos"
+            },
+            {
+                "Nombre": "Merrow",
+                "Descripcion": "Ogros acuáticos adaptados a vida marina",
+                "Ubicacion": "Costas y ríos profundos"
+            }
+        ],
+        "NotasEspeciales": "Raza grande con limitaciones cognitivas, 40% despiertan poderes sin utilidad práctica"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 15,
+    "EdadDespertarMax": 25,
+    "EspecialidadMagica": "Fuerza destructiva; Ogros Chamanes magia elemental y transformación",
+    "HabilidadRacial": {
+        "Categoria": "Aplastamiento",
+        "Descripcion": "Fuerza física destructiva",
+        "Ejemplos": [
+            "Ataque devastador",
+            "Regeneración lenta",
+            "Ogros Chamanes: Transformación, Hechizos"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Karthuum": "50%"
+        },
+        "RegionesSecundarias": {
+            "Montañas (varias regiones)": "15% cada una"
+        },
+        "PorcentajeGlobal": "8%"
+    },
+    "ValoresCulturales": [
+        "Depredación",
+        "Jerarquía basada en tamaño",
+        "Caos"
+    ],
+    "EspecialidadesEconomicas": [
+        "No hay especialización real",
+        "Saqueo",
+        "Trabajo forzado"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Ogro Cría",
+            "RangoEdad": "0-40 años",
+            "Caracteristicas": "Sin nombre, instintivo"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Ogro Adulto",
+            "PoderAproximado": "Tier F-E",
+            "TierMinimo": "F",
+            "TierMaximo": "E",
+            "Caracteristicas": "Fuerza bruta básica"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Oni",
+            "PoderAproximado": "Tier D-B",
+            "TierMinimo": "D",
+            "TierMaximo": "B",
+            "Caracteristicas": "Ogro nombrado, mayor inteligencia y poder. Apariencia mas humana"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Kijin",
+            "PoderAproximado": "Tier B-S",
+            "TierMinimo": "B",
+            "TierMaximo": "S",
+            "Caracteristicas": "Ogro evolucionado, inteligencia superior y habilidades mágicas. Apariencia humana con cuerno distintivos de los ogros"
+        },
+        {
+            "Nivel": 5,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Transformación trascendental"
+        }
+    ]
+}

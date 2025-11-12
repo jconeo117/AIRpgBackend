@@ -1,0 +1,102 @@
+{
+    "Id": "raza_8",
+    "Nombre": "Gigantes",
+    "Tipo": "Natural",
+    "Categoria": "RazaNatural",
+    "Biologia": {
+        "AlturaPromedio": "5.5 - 7.5 metros",
+        "PesoPromedio": "3000 - 5000 kg",
+        "ExpectativaVida": "500 - 800 años",
+        "RasgosDistintivos": [
+            "Humanoides enormes",
+            "Musculatura devastadora",
+            "Cada paso causa terremotos"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Tormenta",
+                "Descripcion": "Gigantes inteligentes con control sobre clima y tormentas",
+                "Ubicacion": "Picos montañosos altos"
+            },
+            {
+                "Nombre": "Fuego",
+                "Descripcion": "Gigantes agresivos con afinidad al fuego y magma",
+                "Ubicacion": "Regiones volcánicas"
+            },
+            {
+                "Nombre": "Montaña",
+                "Descripcion": "Gigantes comunes, más numerosos y neutrales",
+                "Ubicacion": "Cordilleras principales"
+            }
+        ],
+        "NotasEspeciales": "Raza colosal. Gigantes raramente evolucionan, nacen prácticamente al máximo poder"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 50,
+    "EdadDespertarMax": 75,
+    "EspecialidadMagica": "Manipulación de fuerzas naturales cataclísmicas",
+    "HabilidadRacial": {
+        "Categoria": "Cataclismo",
+        "Descripcion": "Control de fenómenos naturales a escala colosal",
+        "Ejemplos": [
+            "Manipulación de terremotos",
+            "Control de clima local",
+            "Lanzamiento de meteoros"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {},
+        "RegionesSecundarias": {
+            "Picos montañosos": "1-3 individuos por región"
+        },
+        "PorcentajeGlobal": "0.5%",
+        "NotasEspeciales": "Viajeros solitarios, sin asentamientos permanentes"
+    },
+    "ValoresCulturales": [
+        "Indiferencia hacia mortales",
+        "Fascinación por observar",
+        "Honor entre gigantes"
+    ],
+    "EspecialidadesEconomicas": [
+        "Ninguna - no participan economía"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Gigante Joven",
+            "RangoEdad": "0-200 años",
+            "PoderAproximado": "Tier B+",
+            "TierMinimo": "B",
+            "TierMaximo": "B",
+            "Caracteristicas": "Ya nacen increíblemente poderosos"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Gigante Adulto",
+            "RangoEdad": "200-500 años",
+            "PoderAproximado": "Tier A-S",
+            "TierMinimo": "A",
+            "TierMaximo": "S",
+            "Caracteristicas": "Poder devastador consolidado"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Gigante Antiguo",
+            "RangoEdad": "500+ años",
+            "PoderAproximado": "Tier S-Z",
+            "TierMinimo": "S",
+            "TierMaximo": "Z",
+            "Caracteristicas": "Leyendas vivientes, poder casi divino"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Titán Primordial",
+            "PoderAproximado": "Tier Z++",
+            "TierMinimo": "ZPlusPlus",
+            "TierMaximo": "ZPlusPlus",
+            "Caracteristicas": "Poder cósmico, capaz de alterar geografía permanentemente"
+        }
+    ]
+}

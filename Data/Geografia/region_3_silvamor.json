@@ -1,0 +1,83 @@
+{
+    "id": 3,
+    "nombre": "Silvamor",
+    "tipo": "Región Mágica y Natural",
+    "posicion": "Sureste",
+    "descripcion": "Un vasto bosque antiguo donde la magia es el orden natural del universo. Guardianes de conocimiento mágico primordial, liderados por Elfos druidicos.",
+    "geografia": {
+        "tipo": "Bosque antiguo, arboledas sagradas, ríos mágicos",
+        "clima": "Templado-húmedo, con fenómenos mágicos climáticos",
+        "caracteristicas_principales": [
+            "Árboles antiguos de miles de años",
+            "Ley mágica natural omnipresente",
+            "Manantiales de Líquido Arcano",
+            "Santuarios de Poder Mágico Puro",
+            "Criaturas mágicas primordiales"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Elfos"
+        ],
+        "razas_presentes": [
+            "Elfos",
+            "Semi-Humanos",
+            "Criaturas mágicas humanoides"
+        ],
+        "porcentaje_urbano": 10,
+        "poblacion_aproximada": "300,000"
+    },
+    "gobierno": {
+        "tipo": "Consejo Druidico",
+        "descripcion": "Gobierno de sabios ancianos Elfos que entienden y respetan la naturaleza mágica. Decisiones tomadas por consenso espiritual.",
+        "liderazgo": "Consejo de 12 Druidas Ancianos, con una Primera Druida que sirve como voz",
+        "ideologia_publica": "Armonía con la naturaleza, magia pura, rechazo a la contaminación tecnológica",
+        "secretos": "Algunos Druidas practican magia prohibida; hay restos de civilizaciones pre-actuales escondidas"
+    },
+    "economia": {
+        "especialidad": "Magia, conocimiento herbal, alquimia, bienes naturales",
+        "recursos_principales": "Líquido Arcano, Cristales de Mana (naturales), hierbas mágicas, conocimiento esotérico",
+        "moneda": "Hoja de Plata",
+        "dependencia_comercial": "Baja - prefieren autosuficiencia, pero comercian lo necesario a través de Cendria"
+    },
+    "cultura": {
+        "lenguaje_principal": "Élfico Antiguo",
+        "idiomas_secundarios": [
+            "Cendrico Común",
+            "Lenguaje Natural (comprensión de flora/fauna)"
+        ],
+        "valores_culturales": [
+            "Armonía",
+            "Sabiduría ancestral",
+            "Respeto a la naturaleza",
+            "Magia pura"
+        ],
+        "festivales": [
+            "Celebración del Equinoccio",
+            "Noche de los Antiguos"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Neutral-defensiva con Cendria",
+        "enemigos": "Abierto rechazo a Valthora y su 'contaminación tecnológica'",
+        "relaciones": "Cooperativo con Umbra (magia similar), tenso con Valorion",
+        "conflictos_potenciales": "Potencial guerra mágica con Valthora si expandieran industria hacia el bosque"
+    },
+    "puntos_de_interes": [
+        "Árbol Primordial - árbol más antiguo del mundo, centro espiritual",
+        "Santuario de Cristales Vivos - lugar de poder mágico puro",
+        "Biblioteca de las Hojas - repositorio de conocimiento mágico antiguo",
+        "Manantial Arcano - fuente de Líquido Arcano más pura"
+    ],
+    "amenazas_internas": [
+        "Tentación de practicar magia prohibida",
+        "Lentitud del cambio en decisiones",
+        "Infiltración de agentes tecnólogos",
+        "Degradación lenta del bosque debido a contaminación externa"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio limitado)",
+        "Valthora (conflicto)",
+        "Umbra (alianza mágica)"
+    ]
+}

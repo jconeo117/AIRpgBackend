@@ -1,0 +1,89 @@
+{
+    "Id": "raza_7",
+    "Nombre": "Arpias",
+    "Tipo": "Natural",
+    "Categoria": "RazaNatural",
+    "Biologia": {
+        "AlturaPromedio": "1.65 - 1.90 metros (sin alas)",
+        "PesoPromedio": "55 - 70 kg",
+        "ExpectativaVida": "150 - 250 años",
+        "RasgosDistintivos": [
+            "Torso humanoide",
+            "Alas enormes",
+            "Piernas de ave con garras",
+            "Visión excepcional"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [],
+        "NotasEspeciales": "Raza aérea",
+        "EnvergaduraAlas": "4.0 - 5.5 metros",
+        "EstructuraSocial": "MATRIARCADO - Hembras gobiernan nidos"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 20,
+    "EdadDespertarMax": 30,
+    "EspecialidadMagica": "Habilidades aéreas y de percepción, magia de viento",
+    "HabilidadRacial": {
+        "Categoria": "Dominio del Cielo",
+        "Descripcion": "Control del aire, vuelo superior, visión excepcional",
+        "Ejemplos": [
+            "Vuelo sostenido velocidad extrema",
+            "Manipulación de vientos",
+            "Visión de halcón"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Thalarim": "50%"
+        },
+        "RegionesSecundarias": {
+            "Cendria": "20%",
+            "Valthora": "15%",
+            "Alturas montañosas": "10-15%"
+        },
+        "PorcentajeGlobal": "7%"
+    },
+    "ValoresCulturales": [
+        "Libertad absoluta",
+        "Desprecio por civilizaciones terrestres",
+        "Honor aéreo"
+    ],
+    "EspecialidadesEconomicas": [
+        "Comercio aéreo",
+        "Mensajería rápida",
+        "Vigilancia aérea"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Arpia Joven",
+            "RangoEdad": "20-50 años",
+            "Caracteristicas": "Aprendiendo a dominar el vuelo"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Arpia Cazadora",
+            "PoderAproximado": "Tier F-D",
+            "TierMinimo": "F",
+            "TierMaximo": "D",
+            "Caracteristicas": "Dominio completo del vuelo y caza"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Arpia Matriarca",
+            "PoderAproximado": "Tier D-B",
+            "TierMinimo": "D",
+            "TierMaximo": "B",
+            "Caracteristicas": "Líder de nido, poder y sabiduría"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Leyenda de los cielos"
+        }
+    ]
+}

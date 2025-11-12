@@ -1,0 +1,85 @@
+{
+    "id": 2,
+    "nombre": "Valthora",
+    "tipo": "Región Tecnológica e Industrial",
+    "posicion": "Este",
+    "descripcion": "Centro de innovación y tecnología. Ciudades de metal y cristal donde la tecnología avanzada convive con magia de forma utilitaria. Liderada por Gnomos e Ingenieros.",
+    "geografia": {
+        "tipo": "Llanuras industriales, colinas con depósitos minerales, ríos de energía mágica",
+        "clima": "Templado a frío, con contaminación mágica localizada",
+        "caracteristicas_principales": [
+            "Grandes fábricas y complejos industriales",
+            "Minas profundas de Acero Oscuro",
+            "Ríos canalizados para energía mágica",
+            "Torres de investigación tecnológica",
+            "Depósitos de Metal Mágico en las colinas"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Gnomos",
+            "Enanos"
+        ],
+        "razas_presentes": [
+            "Gnomos",
+            "Enanos",
+            "Humanos técnicos",
+            "Draconidos menores"
+        ],
+        "porcentaje_urbano": 85,
+        "poblacion_aproximada": "600,000"
+    },
+    "gobierno": {
+        "tipo": "Teocracia Tecnocrática",
+        "descripcion": "Gobierno liderado por una élite de ingenieros y científicos que consideran la tecnología como la verdadera religión. La magia es vista como herramienta, no como arte.",
+        "liderazgo": "Triunvirato de Maestros Ingenieros (3 líderes, elegidos cada 5 años por gremios técnicos)",
+        "ideologia_publica": "Progreso tecnológico, evolución, dominio sobre la naturaleza",
+        "secretos": "Investigación en armas de tecnología prohibida; algunos experimentos que violan normas morales"
+    },
+    "economia": {
+        "especialidad": "Manufactura, ingeniería, forja de metales especiales, investigación tecnológica",
+        "recursos_principales": "Acero Oscuro, Metal Mágico, Cristales de Mana (para energía)",
+        "moneda": "Engranaje de Valthora",
+        "dependencia_comercial": "Media - vende productos manufacturados a Cendria, importa Cristales de Mana"
+    },
+    "cultura": {
+        "lenguaje_principal": "Valtoriano",
+        "idiomas_secundarios": [
+            "Cendrico Común",
+            "Ingeniero Técnico (jerga profesional)"
+        ],
+        "valores_culturales": [
+            "Innovación",
+            "Eficiencia",
+            "Racionalidad",
+            "Rechazo a la magia 'impura'"
+        ],
+        "festivales": [
+            "Festival de la Innovación",
+            "Día del Primer Motor"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Fuerte con Karthuum (intercambio de metales), neutral con Cendria",
+        "enemigos": "Desprecio abierto por Silvamor y su postura 'anti-tecnología'",
+        "relaciones": "Relaciones tensas con regiones mágico-puras",
+        "conflictos_potenciales": "Guerra económica con Silvamor, robo de tecnología e infiltración"
+    },
+    "puntos_de_interes": [
+        "La Gran Forja - complejo industrial más grande del mundo",
+        "Torre de Investigación Suprema - centro de innovación tecnológica",
+        "Minas de Acero Oscuro - principal fuente de materia prima",
+        "Museo de Máquinas Antiguas - artefactos de civilización anterior"
+    ],
+    "amenazas_internas": [
+        "Experimentos científicos sin regulación",
+        "Competencia entre gremios técnicos",
+        "Contaminación mágica industrial",
+        "Descontento de trabajadores sin derechos"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio)",
+        "Karthuum (recursos)",
+        "Silvamor (conflicto)"
+    ]
+}

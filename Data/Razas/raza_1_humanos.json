@@ -1,0 +1,72 @@
+{
+    "Id": "raza_1",
+    "Nombre": "Humanos",
+    "Tipo": "Natural",
+    "Categoria": "RazaNatural",
+    "Biologia": {
+        "AlturaPromedio": "1.70 - 1.85 metros",
+        "PesoPromedio": "70 - 85 kg",
+        "ExpectativaVida": "80 - 120 años",
+        "RasgosDistintivos": [
+            "Cuerpo simétrico y equilibrado",
+            "Versatilidad anatómica",
+            "Ausencia de rasgos animales distintivos"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [],
+        "NotasEspeciales": "Tienen variantes físicas según región"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 12,
+    "EdadDespertarMax": 18,
+    "EspecialidadMagica": "Habilidades versátiles - pueden despertar cualquier categoría",
+    "HabilidadRacial": {
+        "Categoria": "Adaptabilidad",
+        "Descripcion": "Versatilidad sin restricción mágica o física",
+        "Ejemplos": []
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Cendria": "40%",
+            "Ironmarch": "35%",
+            "Thalarim": "25%"
+        },
+        "RegionesSecundarias": {
+            "Todas las regiones": "20-30%"
+        },
+        "PorcentajeGlobal": "28%"
+    },
+    "ValoresCulturales": [
+        "Innovación",
+        "Pragmatismo económico",
+        "Ambición territorial"
+    ],
+    "EspecialidadesEconomicas": [
+        "Comercio",
+        "Administración estatal",
+        "Milicia"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Humano Común",
+            "PoderAproximado": "Estado natural",
+            "Caracteristicas": "Sin despertar habilidades"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Humano Despierto",
+            "PoderAproximado": "Tier F-A",
+            "TierMinimo": "F",
+            "TierMaximo": "A"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "world_metadata": {
+    "name": "Novenia",
+    "description": "Un mundo vasto con múltiples regiones, gobernados por diferentes sistemas políticos. Caracterizado por tensiones raciales, competencia de recursos y magia en transición hacia la tecnología.",
+    "total_regions": 9,
+    "geography_type": "Continente central con cordillera y bosque protector, rodeado de regiones diversas",
+    "current_state": "Paz aparente con tensión constante",
+    "magic_tech_balance": "Magia dominante, tecnología en desarrollo temprano"
+  }
+}

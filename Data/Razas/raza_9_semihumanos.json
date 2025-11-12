@@ -1,0 +1,100 @@
+{
+    "Id": "raza_9",
+    "Nombre": "Semi-Humanos",
+    "Tipo": "Hibrida",
+    "Categoria": "RazaNatural",
+    "Biologia": {
+        "AlturaPromedio": "1.60 - 1.85 metros",
+        "PesoPromedio": "60 - 85 kg",
+        "ExpectativaVida": "120 - 180 años",
+        "RasgosDistintivos": [
+            "Combinación humanos + animales",
+            "Variabilidad extrema",
+            "Únicos por individuo"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Tieflings",
+                "Descripcion": "Híbridos Demonio-Humano con rasgos infernales",
+                "Ubicacion": "Thalarim principalmente, dispersos"
+            },
+            {
+                "Nombre": "Aasimar",
+                "Descripcion": "Híbridos Celestial-Humano con aura divina",
+                "Ubicacion": "Cendria y Thalarim"
+            },
+            {
+                "Nombre": "Bestiales",
+                "Descripcion": "Híbridos con rasgos animales variados (felinos, lobos, etc.)",
+                "Ubicacion": "Todas las regiones"
+            }
+        ],
+        "NotasEspeciales": "Raza versátil híbrida. Cada individuo es único por su mezcla de linajes"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 15,
+    "EdadDespertarMax": 22,
+    "EspecialidadMagica": "Fusión de dos líneas mágicas, versátil",
+    "HabilidadRacial": {
+        "Categoria": "Adaptación Híbrida",
+        "Descripcion": "Pueden acceder a habilidades de ambos progenitores",
+        "Ejemplos": [
+            "Combinación de dos tipos de poder",
+            "Resistencias variadas",
+            "Transformación parcial"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Thalarim": "50%"
+        },
+        "RegionesSecundarias": {
+            "Cendria": "25%",
+            "Otras": "10% cada una"
+        },
+        "PorcentajeGlobal": "11%"
+    },
+    "ValoresCulturales": [
+        "Identidad dual",
+        "Aceptación en Thalarim",
+        "Discriminación en otras"
+    ],
+    "EspecialidadesEconomicas": [
+        "Intermediarios comerciales",
+        "Diplomacia intercultural"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Semi-Humano Joven",
+            "RangoEdad": "0-40 años",
+            "Caracteristicas": "Descubriendo su naturaleza dual"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Semi-Humano Integrado",
+            "PoderAproximado": "Tier F-C",
+            "TierMinimo": "F",
+            "TierMaximo": "C",
+            "Caracteristicas": "Ha aceptado ambos linajes"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Semi-Humano Maestro",
+            "PoderAproximado": "Tier C-B",
+            "TierMinimo": "C",
+            "TierMaximo": "B",
+            "Caracteristicas": "Domina las habilidades de ambas herencias"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Trascendencia de los límites híbridos"
+        }
+    ]
+}

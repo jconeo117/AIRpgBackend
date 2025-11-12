@@ -1,0 +1,103 @@
+{
+    "Id": "raza_2",
+    "Nombre": "Elfos",
+    "Tipo": "Natural",
+    "Categoria": "RazaNatural",
+    "Biologia": {
+        "AlturaPromedio": "1.80 - 2.05 metros",
+        "PesoPromedio": "65 - 75 kg",
+        "ExpectativaVida": "700 - 5000 años",
+        "RasgosDistintivos": [
+            "Orejas puntiagudas alargadas",
+            "Complexión grácil",
+            "Ojos almendrados"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Elfos de Luz",
+                "Descripcion": "Elfos aristocráticos y refinados",
+                "Ubicacion": "Silvamor"
+            },
+            {
+                "Nombre": "Elfos de Bosque",
+                "Descripcion": "Elfos conectados profundamente con la naturaleza",
+                "Ubicacion": "Silvamor interior"
+            },
+            {
+                "Nombre": "Elfos Oscuros (Drow)",
+                "Descripcion": "Elfos marginados, adaptados a la oscuridad",
+                "Ubicacion": "Subterráneo Umbra"
+            }
+        ],
+        "NotasEspeciales": "Raza antigua con mayor longevidad natural"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 25,
+    "EdadDespertarMax": 35,
+    "EspecialidadMagica": "Magia elemental y natural - habilidades potentes pero lentas",
+    "HabilidadRacial": {
+        "Categoria": "Magia Natural",
+        "Descripcion": "Conexión innata con fuerzas naturales",
+        "Ejemplos": [
+            "Control de plantas",
+            "Manipulación elemental",
+            "Visión nocturna 60m",
+            "Trance meditativo"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Silvamor": "70%"
+        },
+        "RegionesSecundarias": {
+            "Cendria": "15%",
+            "Valorion": "10%",
+            "Subterráneo Umbra (Drow)": "50% local"
+        },
+        "PorcentajeGlobal": "18%"
+    },
+    "ValoresCulturales": [
+        "Libertad individual",
+        "Conexión con naturaleza",
+        "Rechazo de dogma",
+        "Seguidores de la Voz dominantes"
+    ],
+    "EspecialidadesEconomicas": [
+        "Arcano y magia",
+        "Silvicultura",
+        "Artesanía mágica"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Elfo Joven",
+            "RangoEdad": "50-400 años",
+            "Caracteristicas": "Aprendiendo las tradiciones élficas"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Elfo Adulto",
+            "RangoEdad": "400-1700 años",
+            "PoderAproximado": "Tier F-A",
+            "TierMinimo": "F",
+            "TierMaximo": "A"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Elfo Ancestral",
+            "RangoEdad": "1700-2400+ años",
+            "PoderAproximado": "Tier S-Z",
+            "TierMinimo": "S",
+            "TierMaximo": "Z"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier S-Z+",
+            "TierMinimo": "S",
+            "TierMaximo": "ZPlus"
+        }
+    ]
+}

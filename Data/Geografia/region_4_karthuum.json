@@ -1,0 +1,84 @@
+{
+    "id": 4,
+    "nombre": "Karthuum",
+    "tipo": "Región Subterránea y Militar",
+    "posicion": "Sur",
+    "descripcion": "Reino subterráneo de fortalezas de piedra y metal. Liderado por una monarquía absoluta, es el principal productor de metales preciosos y el más militarista del mundo.",
+    "geografia": {
+        "tipo": "Sistemas de cuevas masivas, fortalezas subterráneas, depósitos de mithril",
+        "clima": "Frío constante, húmedo en secciones profundas",
+        "caracteristicas_principales": [
+            "Enormes cámaras subterráneas conectadas",
+            "Fortalezas inexpugnables talladas en roca",
+            "Minas de Mithril y Oro profundas",
+            "Ríos subterráneos",
+            "Depósitos geotérmicos para energía"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Enanos",
+            "Ogros"
+        ],
+        "razas_presentes": [
+            "Enanos",
+            "Ogros",
+            "Humanos adaptados a cuevas"
+        ],
+        "porcentaje_urbano": 100,
+        "poblacion_aproximada": "700,000"
+    },
+    "gobierno": {
+        "tipo": "Monarquía Absoluta",
+        "descripcion": "Gobierno hereditario con poder centralizado en una familia real de Enanos. Decisiones militares y económicas tomadas por el Monarca Supremo.",
+        "liderazgo": "Rey/Reina de Karthuum (poder absoluto en teoría, limitado por tradición en práctica)",
+        "ideologia_publica": "Honor, tradición ancestral, fortaleza, defensa del reino",
+        "secretos": "Rivalidad entre principalías por sucesión; algunos nobles planean golpe de estado"
+    },
+    "economia": {
+        "especialidad": "Minería, forja de armas, producción militar, venta de metales preciosos",
+        "recursos_principales": "Mithril, Oro, Acero Oscuro",
+        "moneda": "Corona de Karthuum",
+        "dependencia_comercial": "Alta - vende metales a través de Cendria, importa alimentos y tecnología"
+    },
+    "cultura": {
+        "lenguaje_principal": "Karthúmico",
+        "idiomas_secundarios": [
+            "Cendrico Común"
+        ],
+        "valores_culturales": [
+            "Honor",
+            "Tradición",
+            "Fortaleza",
+            "Lealtad familiar"
+        ],
+        "festivales": [
+            "Festival de la Forja Antigua",
+            "Día de los Reyes Ancestrales"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Fuerte con Valthora (intercambio de tecnología y metales), alianza militar con Ironmarch",
+        "enemigos": "Tensión con Umbra (competencia por Mithril)",
+        "relaciones": "Neutral con Cendria, comercial",
+        "conflictos_potenciales": "Posible guerra civil por sucesión; conflicto con Umbra por recursos"
+    },
+    "puntos_de_interes": [
+        "El Trono de Piedra - sala del trono del Monarca Supremo",
+        "Gran Mina de Mithril - fuente más importante de mithril del mundo",
+        "Academia de Guerreros - centro de entrenamiento militar elite",
+        "Bóveda de los Ancestros - cripta de los reyes antiguos con artefactos legendarios"
+    ],
+    "amenazas_internas": [
+        "Competencia por sucesión real",
+        "Descontento de mineros de baja casta",
+        "Tensión entre facciones nobles",
+        "Posible conspiración para golpe de estado"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio)",
+        "Valthora (alianza técnica)",
+        "Ironmarch (alianza militar)",
+        "Umbra (competencia)"
+    ]
+}

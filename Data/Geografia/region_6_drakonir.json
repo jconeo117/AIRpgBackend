@@ -1,0 +1,84 @@
+{
+    "id": 6,
+    "nombre": "Drakonir",
+    "tipo": "Región Aérea y Caótica",
+    "posicion": "Oeste",
+    "descripcion": "Tierras altas y ciudades flotantes habitadas por Draconidos. Sociedad caótica, anarquista, donde la libertad individual es paramount. Impredecible y peligrosa.",
+    "geografia": {
+        "tipo": "Montañas altísimas, ciudades flotantes, nubes arcanas",
+        "clima": "Templado en alturas, tempestades mágicas frecuentes",
+        "caracteristicas_principales": [
+            "Picos de montañas extraordinarios",
+            "Ciudades flotantes sostenidas por magia",
+            "Nubes arcanas con cristales mágicos",
+            "Corrientes de aire mágico",
+            "Torres de poder draconido"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Draconidos"
+        ],
+        "razas_presentes": [
+            "Draconidos",
+            "Arpías",
+            "Humanos aventureros"
+        ],
+        "porcentaje_urbano": 60,
+        "poblacion_aproximada": "400,000"
+    },
+    "gobierno": {
+        "tipo": "Anarquía/Clanes",
+        "descripcion": "No hay gobierno centralizado. Múltiples clanes Draconidos autónomos compiten por poder. Alianzas temporales y conflictos frecuentes son la norma.",
+        "liderazgo": "Múltiples Jefes de Clan (no coordinados, frecuentemente en conflicto)",
+        "ideologia_publica": "Libertad radical, honor individual, rechazo a autoridad central",
+        "secretos": "Algunos clanes secretamente comercian con el Plano de No-Muertos"
+    },
+    "economia": {
+        "especialidad": "Navegación aérea, transporte de lujo, aventura, mercado negro",
+        "recursos_principales": "Cristales de Mana (nubes), alimentos raros de altura",
+        "moneda": "Gema del Cielo",
+        "dependencia_comercial": "Baja - generalmente autosuficientes, pero comercian lo extra a Cendria"
+    },
+    "cultura": {
+        "lenguaje_principal": "Dracónico",
+        "idiomas_secundarios": [
+            "Aéreo",
+            "Cendrico Común"
+        ],
+        "valores_culturales": [
+            "Libertad",
+            "Honor personal",
+            "Poder individual",
+            "Caos"
+        ],
+        "festivales": [
+            "Torneo de los Cielos",
+            "Celebración del Caos"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Ninguna fija - alianzas de clan a clan",
+        "enemigos": "Conflicto frecuente con Thalarim sobre control de rutas aéreas",
+        "relaciones": "Impredecibles - pueden ser amigables o hostiles según clan",
+        "conflictos_potenciales": "Guerra aérea con Thalarim, conflictos internos entre clanes, infiltración demoniaca"
+    },
+    "puntos_de_interes": [
+        "La Ciudad Flotante de Aezakar - mayor ciudad del aire",
+        "Arena de los Clanes - lugar de encuentro y competencia",
+        "Nube Arcana de Poder - lugar de Cristales de Mana concentrados",
+        "Torre Antigua - estructura misteriosa de civilización anterior"
+    ],
+    "amenazas_internas": [
+        "Conflictos constantes entre clanes",
+        "Falta de coordinación en defensa",
+        "Infiltración demoniaca silenciosa",
+        "Posible unificación de clanes bajo un tirano",
+        "Degradación de ciudades flotantes"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio limitado)",
+        "Thalarim (conflicto)",
+        "Ironmarch (competencia)"
+    ]
+}

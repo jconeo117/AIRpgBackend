@@ -1,0 +1,85 @@
+{
+    "id": 8,
+    "nombre": "Umbra",
+    "tipo": "Región Helada y Misteriosa",
+    "posicion": "Norte",
+    "descripcion": "Tierra de hielo eterno y misterio. Gobernada por una monarquía ancestral Vampirica, es el reino menos conocido del mundo, con secretos guardados celosamente.",
+    "geografia": {
+        "tipo": "Tundra helada, montañas de hielo, cavernas cristalinas",
+        "clima": "Perpetuamente frío, auroras nocturnas mágicas",
+        "caracteristicas_principales": [
+            "Campos de hielo eternos",
+            "Cuevas de Cristal congelado",
+            "Aurora Mágica permanente",
+            "Ruinas de civilización pre-actual",
+            "Depósitos de Cristales de Mana congelados"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Vampiros",
+            "Semi-Humanos"
+        ],
+        "razas_presentes": [
+            "Vampiros antiguos",
+            "Semi-Humanos resistentes al frío",
+            "Criaturas mágicas del hielo"
+        ],
+        "porcentaje_urbano": 20,
+        "poblacion_aproximada": "250,000"
+    },
+    "gobierno": {
+        "tipo": "Monarquía Ancestral",
+        "descripcion": "Gobierno regido por una familia real Vampirica de antiguedad desconocida. Secrets y aislacionismo son política estatal.",
+        "liderazgo": "Reina/Rey Eterno de Umbra (vampiro ancestral de miles de años)",
+        "ideologia_publica": "Aislacionismo, misterio, preservación del conocimiento antiguo, magia pura",
+        "secretos": "Umbra guarda secretos de civilizaciones perdidas; posible conexión con Plano de No-Muertos"
+    },
+    "economia": {
+        "especialidad": "Comercio de conocimiento mágico, cristales, artefactos antiguos",
+        "recursos_principales": "Cristales de Mana congelados, Líquido Arcano, artefactos antiguos",
+        "moneda": "Gema de Hielo",
+        "dependencia_comercial": "Baja - prefieren aislacionismo, comercian lo mínimo necesario"
+    },
+    "cultura": {
+        "lenguaje_principal": "Umbrico Antiguo",
+        "idiomas_secundarios": [
+            "Cendrico Común",
+            "Lenguaje de Bestias"
+        ],
+        "valores_culturales": [
+            "Misterio",
+            "Conocimiento antiguo",
+            "Aislacionismo",
+            "Poder mágico puro"
+        ],
+        "festivales": [
+            "Noche de Aurora Eterna",
+            "Celebración del Antiguo Conocimiento"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Alianza mágica débil con Silvamor",
+        "enemigos": "Competencia con Karthuum por Mithril",
+        "relaciones": "Aislacionista - interacción mínima con otras regiones",
+        "conflictos_potenciales": "Posible guerra con Karthuum por recursos, revelación de secretos antiguos"
+    },
+    "puntos_de_interes": [
+        "Castillo de Hielo Eterno - residencia de la monarquía Vampirica",
+        "Caverna de Cristales Primordiales - lugar de poder mágico antiguo",
+        "Biblioteca del Conocimiento Perdido - repositorio de saber de civilizaciones antiguas",
+        "Ruinas de la Primera Ciudad - vestigios de civilización pre-actual"
+    ],
+    "amenazas_internas": [
+        "Revelación accidental de secretos antiguos",
+        "Conspiración interna de vampiros rivales",
+        "Competencia con Karthuum por recursos",
+        "Posible infiltración de agentes externos",
+        "Riesgo de despertar entidades antiguas"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio limitado)",
+        "Silvamor (alianza mágica)",
+        "Karthuum (competencia por recursos)"
+    ]
+}

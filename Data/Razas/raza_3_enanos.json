@@ -1,0 +1,84 @@
+{
+    "Id": "raza_3",
+    "Nombre": "Enanos",
+    "Tipo": "Natural",
+    "Categoria": "RazaNatural",
+    "Biologia": {
+        "AlturaPromedio": "1.20 - 1.40 metros",
+        "PesoPromedio": "80 - 120 kg",
+        "ExpectativaVida": "350 - 750 años",
+        "RasgosDistintivos": [
+            "Robusto musculoso",
+            "Barba larga (honor)",
+            "Visión nocturna excepcional"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [],
+        "NotasEspeciales": "Raza subterránea. Mujeres igualmente fuertes que hombres, barba más corta culturalmente"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 30,
+    "EdadDespertarMax": 45,
+    "EspecialidadMagica": "Habilidades físicas, resistencia a magia arcana",
+    "HabilidadRacial": {
+        "Categoria": "Forja Divina",
+        "Descripcion": "Capacidad innata para trabajar piedra y metal mágico",
+        "Ejemplos": [
+            "Detección de minerales",
+            "Resistencia a hechizos",
+            "Forja de armas legendarias"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Karthuum": "80%"
+        },
+        "RegionesSecundarias": {
+            "Cendria": "10%",
+            "Ironmarch": "5%"
+        },
+        "PorcentajeGlobal": "12%"
+    },
+    "ValoresCulturales": [
+        "Honor de clan",
+        "Maestría artesanal",
+        "Prosperidad económica"
+    ],
+    "EspecialidadesEconomicas": [
+        "Minería de mithril",
+        "Orfebrería",
+        "Herrería de leyenda"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Enano Joven",
+            "RangoEdad": "50-150 años",
+            "Caracteristicas": "Aprendiz en las forjas"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Enano Maestro",
+            "RangoEdad": "150-300 años",
+            "PoderAproximado": "Tier F-A",
+            "TierMinimo": "F",
+            "TierMaximo": "A"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Enano Ancestral",
+            "RangoEdad": "300-450+ años",
+            "PoderAproximado": "Tier S-Z",
+            "TierMinimo": "S",
+            "TierMaximo": "Z"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier S-Z",
+            "TierMinimo": "S",
+            "TierMaximo": "Z"
+        }
+    ]
+}

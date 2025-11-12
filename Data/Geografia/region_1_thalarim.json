@@ -1,0 +1,85 @@
+{
+    "id": 1,
+    "nombre": "Thalarim",
+    "tipo": "Region Acuática y Comercial",
+    "posicion": "Noreste",
+    "descripcion": "Un vasto archipiélago de islas y ciudades costeras conectadas por rutas marítimas. Centro del comercio naval mundial y hogar de navegantes aventureros.",
+    "geografia": {
+        "tipo": "Archipiélago, islas, costas extensas",
+        "clima": "Tropical a subtropical, humedades altas",
+        "caracteristicas_principales": [
+            "Múltiples archipiélagos interconectados",
+            "Puertos naturales profundos",
+            "Corrientes oceánicas poderosas",
+            "Bancos de coral con propiedades mágicas",
+            "Restos de civilizaciones antiguas sumergidas"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Semi-Humanos",
+            "Arpías"
+        ],
+        "razas_presentes": [
+            "Semi-Humanos",
+            "Arpías",
+            "Humanos costeros",
+            "Demonios menores (del plano externo infiltrados)"
+        ],
+        "porcentaje_urbano": 70,
+        "poblacion_aproximada": "800,000"
+    },
+    "gobierno": {
+        "tipo": "Confederación de Ciudades-Estado",
+        "descripcion": "Cada isla principal es una ciudad-estado autónoma pero unida en confederación. Gobernadas por capitanes-mercaderes electos.",
+        "liderazgo": "Consejo de Capitanes (un representante por ciudad-estado principal, aprox. 15)",
+        "ideologia_publica": "Libertad comercial, aventura, exploración",
+        "secretos": "Algunas ciudades-estado comercian en secreto con Demonios del plano externo"
+    },
+    "economia": {
+        "especialidad": "Comercio marítimo, navegación, pesca, exploración",
+        "recursos_principales": "Cristales de Mana (extraídos del agua y coral mágico), alimentos marinos, perlas mágicas",
+        "moneda": "Galeón Azul",
+        "dependencia_comercial": "Alta con Cendria para distribuir productos"
+    },
+    "cultura": {
+        "lenguaje_principal": "Thalarin",
+        "idiomas_secundarios": [
+            "Aéreo (arpías)",
+            "Cendrico Común"
+        ],
+        "valores_culturales": [
+            "Libertad",
+            "Aventura",
+            "Lealtad a la tripulación",
+            "Riqueza"
+        ],
+        "festivales": [
+            "Festival de las Velas (celebración de buenas cosechas)",
+            "Noche de Navegantes"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Relación comercial fuerte con Cendria, alianza débil con Valorion",
+        "enemigos": "Tensión con Drakonir por control de rutas aéreas",
+        "relaciones": "Positivas con la mayoría, excepto conflictos con piratas internos",
+        "conflictos_potenciales": "Guerra comercial con otras regiones, infiltración de demonios"
+    },
+    "puntos_de_interes": [
+        "Puerto Azul - mayor puerto del archipiélago",
+        "Islas de los Navegantes - centro de entrenamiento de marineros",
+        "Banco de Coral Mágico - fuente de Cristales de Mana",
+        "Restos de Atlantidris - ruina sumergida de civilización antigua"
+    ],
+    "amenazas_internas": [
+        "Piratería endémica",
+        "Rivalidad entre ciudades-estado",
+        "Dependencia económica de rutas comerciales",
+        "Infiltración demoniaca silenciosa"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio)",
+        "Valorion (por mar)",
+        "Drakonir (conflicto aéreo)"
+    ]
+}

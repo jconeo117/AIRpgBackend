@@ -1,0 +1,86 @@
+{
+    "id": 7,
+    "nombre": "Ironmarch",
+    "tipo": "Región Montañosa y Guerrera",
+    "posicion": "Noroeste",
+    "descripcion": "Fortalezas montañosas de guerreros honorables. Una región de clanes unidos por tradición marcial, donde el honor y la guerra son sagrados.",
+    "geografia": {
+        "tipo": "Montañas de roca oscura, fortalezas impenetrables, valles estratégicos",
+        "clima": "Frío montañoso, nieve en alturas",
+        "caracteristicas_principales": [
+            "Montañas imponentes de roca negra",
+            "Fortalezas de piedra masivas",
+            "Valles fértiles para ganadería",
+            "Depósitos de metales valiosos",
+            "Campos de entrenamiento de guerreros"
+        ]
+    },
+    "poblacion": {
+        "razas_dominantes": [
+            "Humanos",
+            "Orcos",
+            "Gigantes"
+        ],
+        "razas_presentes": [
+            "Humanos montañeses",
+            "Orcos",
+            "Gigantes",
+            "Enanos comerciantes"
+        ],
+        "porcentaje_urbano": 30,
+        "poblacion_aproximada": "600,000"
+    },
+    "gobierno": {
+        "tipo": "Confederación de Clanes",
+        "descripcion": "Múltiples clanes autónomos unidos por un código marcial común. Decisiones importantes tomadas en Concilio de Caudillos.",
+        "liderazgo": "Concilio de 20 Caudillos de Clan (uno por clan principal)",
+        "ideologia_publica": "Honor, tradición marcial, lealtad a clan, guerra como arte",
+        "secretos": "Algunos clanes consideran declarar guerra a Valorion por insultos antiguos"
+    },
+    "economia": {
+        "especialidad": "Mercenarios, fabricación de armas, comercio de metales, ganadería",
+        "recursos_principales": "Mithril, Acero Oscuro, Oro, servicios militares",
+        "moneda": "Moneda de Hierro",
+        "dependencia_comercial": "Media - vende metales y servicios de mercenarios a través de Cendria"
+    },
+    "cultura": {
+        "lenguaje_principal": "Ironés",
+        "idiomas_secundarios": [
+            "Cendrico Común",
+            "Orcano"
+        ],
+        "valores_culturales": [
+            "Honor",
+            "Batalla honorable",
+            "Lealtad",
+            "Tradición"
+        ],
+        "festivales": [
+            "Festival de Guerreros",
+            "Día de los Antiguos Caudillos"
+        ]
+    },
+    "politica_externa": {
+        "alianzas": "Fuerte con Karthuum (alianza militar), neutral con Cendria",
+        "enemigos": "Tensión con Valorion (insultos históricos)",
+        "relaciones": "Respeto mutuo con otras regiones, desconfianza de política blanda",
+        "conflictos_potenciales": "Posible guerra con Valorion, conflicto interno si caudillos se dividen"
+    },
+    "puntos_de_interes": [
+        "La Gran Fortaleza de Ironmarch - capital fortificada",
+        "Arena de Guerreros - lugar de entrenamientos y competencias",
+        "Monumento de los Antiguos Caudillos - memorial histórico",
+        "Mina de Mithril de las Montañas - fuente importante de metal"
+    ],
+    "amenazas_internas": [
+        "Rivalidad entre clanes que puede desencadenar conflicto",
+        "Presión de clanes jóvenes queriendo gloria en guerra",
+        "Infiltración de agentes de Valorion o Drakonir",
+        "Posible división sobre intervención en conflictos externos"
+    ],
+    "conexiones_con_otras_regiones": [
+        "Cendria (comercio)",
+        "Karthuum (alianza militar)",
+        "Valorion (tensión)"
+    ]
+}
