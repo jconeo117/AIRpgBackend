@@ -1,4 +1,5 @@
-﻿using AiRpgBackend.Services;
+﻿using AiRpgBackend.Interfaces;
+using AiRpgBackend.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AiRpgBackend.Controllers
@@ -8,17 +9,19 @@ namespace AiRpgBackend.Controllers
     public class CampaingController : ControllerBase
     {
 
-        private readonly NarrativeComposerService narrativeComposerService;
+        private readonly IGameManagerService _gameManager;
 
-        public CampaingController(NarrativeComposerService narrativeComposer)
+        public CampaingController(IGameManagerService gameManager)
         {
-            narrativeComposerService = narrativeComposer;
+            _gameManager = gameManager;
         }
 
         [HttpPost("start")]
         public async Task<IActionResult> Start([FromBody] playerRequest request)
         {
+            var response = await _gameManager.ProccesPlayerAction(request.ActionText);
 
+            return Ok(response);
         }
     }
 
