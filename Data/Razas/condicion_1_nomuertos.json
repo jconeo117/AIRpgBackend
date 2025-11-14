@@ -1,0 +1,77 @@
+{
+    "Id": "condicion_1",
+    "Nombre": "NO-MUERTOS",
+    "Tipo": "CONDICION SOBRENATURAL - NO ES RAZA",
+    "Aclaracion": "Estado aplicable a cualquier raza. Un Elfo, Humano, Enano, etc. puede ser No-Muerto",
+    "Caracteristicas": {
+        "Retienen": "Forma de raza original pero sin vida",
+        "Manifestacion": "Piel pálida/grisácea, ojos sin brillo, ausencia de calor",
+        "CaracteristicaUniversal": "Acceso innato a nigromancia"
+    },
+    "Origenes": [
+        "Maldiciones antiguas",
+        "Nigromancia",
+        "Ritual sacrificial",
+        "Pacto oscuro"
+    ],
+    "CapacidadesMagicas": {
+        "RetienenHabilidades": "Conservan las que poseían en vida pero transformadas",
+        "NotaImportante": "NO-Muerto conserva su nombre si lo poseía en vida",
+        "AccesoInnato": "Nigromancia y magia de sombras"
+    },
+    "HabilidadRacial": {
+        "Categoria": "Existencia Persistente",
+        "Descripcion": "Resistencia sobrenatural y control de la muerte",
+        "Ejemplos": [
+            "Resistencia a daño físico",
+            "Regeneración de heridas",
+            "Inmunidad a enfermedad",
+            "Nigromancia innata"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Plano de No-Muertos": "Dimensión alterna"
+        },
+        "RegionesSecundarias": {
+            "Umbra": "20%",
+            "Otras regiones": "1-2% dispersos"
+        },
+        "PorcentajeGlobal": "3%"
+    },
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Esqueleto/Zombi Maldito",
+            "PoderAproximado": "Tier F-E",
+            "TierMinimo": "F",
+            "TierMaximo": "E",
+            "Caracteristicas": "Inteligencia limitada"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Espectro/Fantasma",
+            "PoderAproximado": "Tier E-C",
+            "TierMinimo": "E",
+            "TierMaximo": "C",
+            "Caracteristicas": "Consciente"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Liche/No-Muerto Ancestral",
+            "PoderAproximado": "Tier B-S",
+            "TierMinimo": "B",
+            "TierMaximo": "S",
+            "Caracteristicas": "Siglos de poder"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Rey Demonio No-Muerto",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Poder trascendental sobre la muerte"
+        }
+    ],
+    "ControlPolitico": null
+}

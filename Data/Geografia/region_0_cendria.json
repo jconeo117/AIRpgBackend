@@ -20,7 +20,7 @@
             "Humanos",
             "Elfos",
             "Enanos",
-            "Gnomos",
+            "Goblins",
             "Semi-Humanos",
             "Draconidos menores",
             "Arpías"
@@ -29,11 +29,27 @@
         "poblacion_aproximada": "2 millones"
     },
     "gobierno": {
-        "tipo": "Consejo de Neutralidad",
-        "descripcion": "Gobierno multicultural basado en representación de razas y naciones. Supuestamente neutral en todos los conflictos internacionales.",
-        "liderazgo": "Senado de 50 representantes rotativo (2 años por mandato)",
-        "ideologia_publica": "Neutralidad absoluta, mediación, comercio justo",
-        "secretos": "Corrupción sistémica interna desconocida por las demás regiones. Facciones dentro del gobierno trabajan para manipular el comercio global y favorecer intereses personales."
+        "tipo": "Consejo de los 7 Gremios",
+        "descripcion": "Gobierno formado por representantes de los 7 gremios más poderosos de Cendria, liderado por un Presidente elegido democráticamente. Presenta imagen pública de neutralidad absoluta y mediación justa, pero opera mediante corrupción sistémica y control económico global a través de ACES.",
+        "liderazgo": {
+            "consejo_permanente": "14 representantes (2 por cada uno de los 7 gremios)",
+            "presidente": "Elegido democráticamente, mandato 4 años, reelección 1 vez"
+        },
+        "ideologia_publica": "Neutralidad absoluta, mediación, comercio justo, oportunidad igualitaria para cazadores",
+        "secretos": {
+            "corrupcion_gubernamental": "Corrupción sistémica del Consejo de los 7 Gremios para manipular el comercio global",
+            "manipulacion_economica": "El Gremio de Tasadores manipula tasas de cambio para beneficiar regiones aliadas",
+            "aces_corrupto": "ACES opera bajo apariencia de neutralidad pero vende información, manipula registros y elimina competencia",
+            "departamento_secreto": "Existencia del Departamento de Purga de Secretos (operaciones de asesinato encubiertas)",
+            "registros_fantasma": "Sistema de misiones 'borradas' que en realidad se archivan en seguridad extrema",
+            "monopolio_violento": "ACES ha eliminado violentamente toda competencia histórica sin dejar rastro"
+        },
+        "relacion_con_aces": {
+            "descripcion": "Cendria es la sede central de ACES",
+            "liderazgo_compartido": "El Presidente de Cendria es automáticamente Director Ejecutivo de ACES",
+            "importancia": "ACES es la mayor fuente de poder económico y político de Cendria",
+            "presencia_fisica": "Torre de ACES - edificio más alto de Cendria después de la Torre de los Consejeros"
+        }
     },
     "economia": {
         "especialidad": "Comercio, intermediación, recursos concentrados de todas las regiones",
@@ -65,15 +81,22 @@
     },
     "puntos_de_interes": [
         "Gran Mercado de Cendria - centro comercial más grande del mundo",
-        "Torre de los Consejeros - sede del gobierno",
+        "Torre de los Consejeros - sede del gobierno de Cendria",
+        "Torre de ACES - sede central de la Asociación de Cazadores (segunda más alta)",
+        "Bóveda de Registros - almacén ultra-seguro de información de misiones (ubicación exacta clasificada)",
         "Biblioteca Neutral - repositorio de conocimiento histórico y político",
-        "Puerto Cendrio - punto central de acceso a rutas comerciales"
+        "Puerto Cendrio - punto central de acceso a rutas comerciales",
+        "Distrito de los Examinadores - campus de entrenamiento y evaluación de cazadores"
     ],
     "amenazas_internas": [
-        "Corrupción del gobierno",
-        "Facciones rivales dentro del Senado",
-        "Infiltración de agentes de otras regiones",
-        "Potencial colapso económico si se revela manipulación"
+        "Corrupción sistémica del Consejo de los 7 Gremios",
+        "Facciones rivales dentro del Consejo",
+        "Infiltración de agentes de otras regiones en sucursales de ACES",
+        "Potencial colapso económico si se revela manipulación del Gremio de Tasadores",
+        "Sobornos en sistema de exámenes de ACES",
+        "Venta ilegal de información de misiones a gobiernos extranjeros",
+        "Riesgo de exposición del Departamento de Purga de Secretos",
+        "Tensión creciente entre cazadores de rango bajo y élites de ACES"
     ],
     "conexiones_con_otras_regiones": "Directa con todas las 8 regiones mediante rutas comerciales"
 }

@@ -1,0 +1,100 @@
+{
+    "Id": "raza_11",
+    "Nombre": "Demonios",
+    "Tipo": "Monstruo",
+    "Categoria": "RazaMonstruosa",
+    "Biologia": {
+        "AlturaPromedio": "Variable según forma",
+        "PesoPromedio": "Variable según forma",
+        "ExpectativaVida": "Indefinida - inmortales hasta ser destruidos",
+        "RasgosDistintivos": [
+            "Forma altamente variable",
+            "Pueden ser humanoides, cuadrúpedos o geométricos",
+            "Entre mas poderosos, optan por formas mas humanas",
+            "Irradian presencia mágica constantemente",
+            "Rasgos infernales diversos"
+        ],
+        "TieneGenero": false,
+        "Subrazas": [],
+        "NotasEspeciales": "Nacen en Plano de No-Muertos. Su existencia precede al mundo mortal. Forma única por individuo"
+    },
+    "PuedeDespertarHabilidades": false,
+    "PorcentajeDespertar": 0.0,
+    "EdadDespertarMin": 0,
+    "EdadDespertarMax": 0,
+    "EspecialidadMagica": "Nacen con poder inherente único por individuo, imposible categorizar. Acceso innato a magia oscura y nigromancia",
+    "HabilidadRacial": {
+        "Categoria": "Poder Innato",
+        "Descripcion": "Nacen con poder inherente determinado por su naturaleza individual",
+        "Ejemplos": [
+            "Magia oscura innata",
+            "Nigromancia natural",
+            "Poderes únicos por demonio",
+            "Amplificación dramática al ser nombrados"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Plano de No-Muertos": "Dimensión alterna - cantidad infinita"
+        },
+        "RegionesSecundarias": {
+            "Portales entre mundos": "Frontera dimensional",
+            "Mundo mortal": "Bajo contrato con Reyes Demonios"
+        },
+        "PorcentajeGlobal": "Variable",
+        "NotasEspeciales": "Infinitos en Plano Externo, pocos en mundo mortal"
+    },
+    "ValoresCulturales": [
+        "Poder individual",
+        "Jerarquía por fuerza",
+        "Ambición de ser nombrados",
+        "Lealtad a superiores nombrados"
+    ],
+    "EspecialidadesEconomicas": [
+        "No participan en economía mortal",
+        "Sirven bajo contratos mágicos",
+        "Algunos actúan como mercenarios"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Demonio Menor",
+            "PoderAproximado": "Tier F-D",
+            "TierMinimo": "F",
+            "TierMaximo": "D",
+            "Caracteristicas": "Sin nombre, impulsivo, poder básico. Apariencia mas variada"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Demonio Mayor",
+            "PoderAproximado": "Tier D-B",
+            "TierMinimo": "D",
+            "TierMaximo": "B",
+            "Caracteristicas": "Puede estar nombrado, mayor control y poder. Comienza a tener tendencias al aspecto humano"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Archi-Demonio",
+            "PoderAproximado": "Tier B-S",
+            "TierMinimo": "B",
+            "TierMaximo": "S",
+            "Caracteristicas": "Lidera legiones, nombre cósmico, gran autoridad"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Duque Demonio",
+            "PoderAproximado": "Tier S-SS",
+            "TierMinimo": "S",
+            "TierMaximo": "SS",
+            "Caracteristicas": "Casi soberanía planar, poder devastador"
+        },
+        {
+            "Nivel": 5,
+            "Nombre": "Señor Demonio",
+            "PoderAproximado": "Tier Z",
+            "TierMinimo": "Z",
+            "TierMaximo": "Z",
+            "Caracteristicas": "El nivel más alto alcanzable por un demonio. No hay registros conocidos de alguno"
+        }
+    ]
+}

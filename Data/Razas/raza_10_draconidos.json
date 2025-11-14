@@ -1,0 +1,108 @@
+{
+    "Id": "raza_10",
+    "Nombre": "Draconidos",
+    "Tipo": "Monstruo",
+    "Categoria": "RazaMonstruosa",
+    "Biologia": {
+        "AlturaPromedio": "1.80 - 2.10 metros",
+        "PesoPromedio": "150 - 200 kg",
+        "ExpectativaVida": "300 - 500 años",
+        "RasgosDistintivos": [
+            "Humanoides con escamas brillantes",
+            "Cola prensil",
+            "Cuernos",
+            "Garras",
+            "Visión térmica"
+        ],
+        "TieneGenero": true,
+        "Subrazas": [
+            {
+                "Nombre": "Rojo",
+                "Descripcion": "Draconidos de fuego, agresivos y temperamentales",
+                "Ubicacion": "Drakonir, zonas volcánicas"
+            },
+            {
+                "Nombre": "Azul",
+                "Descripcion": "Draconidos de hielo, calculadores y metódicos",
+                "Ubicacion": "Drakonir, regiones frías"
+            },
+            {
+                "Nombre": "Verde",
+                "Descripcion": "Draconidos de veneno, astutos y sigilosos",
+                "Ubicacion": "Drakonir, pantanos y bosques"
+            },
+            {
+                "Nombre": "Oro",
+                "Descripcion": "Draconidos mágicos, nobles y poderosos",
+                "Ubicacion": "Drakonir, centros de poder"
+            }
+        ],
+        "NotasEspeciales": "Raza reptiliana. Cola prensil utilizada para equilibrio y combate"
+    },
+    "PuedeDespertarHabilidades": true,
+    "PorcentajeDespertar": 0.93,
+    "EdadDespertarMin": 35,
+    "EdadDespertarMax": 50,
+    "EspecialidadMagica": "Magia elemental potente según subtipo",
+    "HabilidadRacial": {
+        "Categoria": "Fuego Draconiano",
+        "Descripcion": "Aliento elemental y magia potente",
+        "Ejemplos": [
+            "Aliento elemental según color",
+            "Resistencia a elemento",
+            "Transformación parcial"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Drakonir": "80%"
+        },
+        "RegionesSecundarias": {
+            "Cendria": "10%",
+            "Otras": "2-5%"
+        },
+        "PorcentajeGlobal": "6%"
+    },
+    "ValoresCulturales": [
+        "Honor draconiano",
+        "Jerarquía por poder elemental",
+        "Aspiración cósmica"
+    ],
+    "EspecialidadesEconomicas": [
+        "Magia elemental",
+        "Minería de cristales",
+        "Guardianes"
+    ],
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Draconido Joven",
+            "RangoEdad": "0-100 años",
+            "Caracteristicas": "Sin nombre, desarrollando habilidades elementales"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Draconido Adulto",
+            "PoderAproximado": "Tier F-C",
+            "TierMinimo": "F",
+            "TierMaximo": "C",
+            "Caracteristicas": "Nombrado, dominio elemental básico"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Draconido Ancestral",
+            "PoderAproximado": "Tier B-S",
+            "TierMinimo": "B",
+            "TierMaximo": "S",
+            "Caracteristicas": "Maestría elemental completa, respetado por su poder"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Heroe o Rey Demonio",
+            "PoderAproximado": "Tier Z+",
+            "TierMinimo": "ZPlus",
+            "TierMaximo": "ZPlus",
+            "Caracteristicas": "Trascendencia draconiana, poder casi divino"
+        }
+    ]
+}

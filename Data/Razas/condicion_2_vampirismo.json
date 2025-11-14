@@ -1,0 +1,83 @@
+{
+    "Id": "condicion_2",
+    "Nombre": "VAMPIRISMO",
+    "Tipo": "CONDICION SOBRENATURAL - NO ES RAZA",
+    "Aclaracion": "Estado aplicable a cualquier raza. Un Elfo, Humano, Enano, etc. puede ser Vampiro",
+    "Caracteristicas": {
+        "Retienen": "Forma de raza original pero transformado",
+        "Manifestacion": "Piel pálida, ojos rojos/plateados, colmillos elongados, sin reflejo",
+        "CaracteristicaUniversal": "Necesidad constante de sangre, regeneración acelerada"
+    },
+    "Origenes": [
+        "Transmisión de sangre vampírica",
+        "Pacto oscuro",
+        "Maldición",
+        "Ritual antiguo"
+    ],
+    "CapacidadesMagicas": {
+        "RetienenHabilidades": "Habilidades en vida + poderes vampíricos ampliados",
+        "NotaImportante": "Vampiros pueden ser nombrados, mayoría de antiguos tiene nombre cósmico",
+        "AccesoInnato": "Magia de sangre, hipnosis, dominio mental"
+    },
+    "HabilidadRacial": {
+        "Categoria": "Hambre Eternal",
+        "Descripcion": "Poderes sobrenaturales alimentados por sangre vital",
+        "Ejemplos": [
+            "Regeneración acelerada",
+            "Fuerza aumentada anochecer",
+            "Hipnosis mental",
+            "Transformación murciélago/niebla",
+            "Magia de sangre",
+            "Longevidad milenios"
+        ]
+    },
+    "Distribucion": {
+        "RegionesPrimarias": {
+            "Umbra": "90% (monarquía imperial)",
+            "Valorion": "40% (infiltración)"
+        },
+        "RegionesSecundarias": {
+            "Cendria": "15%",
+            "Otras": "3-8%"
+        },
+        "PorcentajeGlobal": "5%"
+    },
+    "SistemasEvolucion": [
+        {
+            "Nivel": 1,
+            "Nombre": "Vampiro Fledgling",
+            "RangoEdad": "0-50 años",
+            "PoderAproximado": "Tier E-D",
+            "TierMinimo": "E",
+            "TierMaximo": "D",
+            "Caracteristicas": "Recién convertido, sed insaciable"
+        },
+        {
+            "Nivel": 2,
+            "Nombre": "Vampiro Establecido",
+            "RangoEdad": "50-200 años",
+            "PoderAproximado": "Tier C-B",
+            "TierMinimo": "C",
+            "TierMaximo": "B",
+            "Caracteristicas": "Control de la sed, poderes consolidados"
+        },
+        {
+            "Nivel": 3,
+            "Nombre": "Vampiro Matusalén",
+            "RangoEdad": "200-1000+ años",
+            "PoderAproximado": "Tier B-S",
+            "TierMinimo": "B",
+            "TierMaximo": "S",
+            "Caracteristicas": "Antiguo con siglos de experiencia y poder acumulado"
+        },
+        {
+            "Nivel": 4,
+            "Nombre": "Rey Demonio",
+            "PoderAproximado": "Tier Z (cuando despierte)",
+            "TierMinimo": "Z",
+            "TierMaximo": "Z",
+            "Caracteristicas": "Vampiro trascendental, nombre cósmico, poder absoluto"
+        }
+    ],
+    "ControlPolitico": "Lideran Ejército Vampírico Imperial de Umbra bajo Sultán títere"
+}
